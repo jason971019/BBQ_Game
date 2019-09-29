@@ -99,3 +99,7 @@ while gameover[0] == 0:
             Give_to_Client(client,position)
     gameover = Game_Over()
 ```
+-----------
+顯示讀取到的菜單內容  
+![image](https://github.com/jason971019/BBQ_Game/blob/master/order.png)  
+(ex. [0 0 0 0 0 1 2] 表示第6樣有1個；第7樣有2個)
